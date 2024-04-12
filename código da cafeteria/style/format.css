@@ -1,0 +1,10 @@
+#café{ width: 1000px;
+       height: 500px;
+}
+body{
+    background-color: beige;
+}
+
+#titulo{
+    font-size: 200%;
+}

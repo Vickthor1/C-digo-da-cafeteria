@@ -1,0 +1,46 @@
+#titulo{
+    flex-direction: column;
+    line-height: 10px;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+body{
+    color: brown;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: brown;
+}
+
+a:hover{
+    color: rgb(197, 0, 0);
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#Fazer-reserva{
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    border: 1px solid rgb(197, 0, 0);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#Fazer-reserva:hover{
+    background-color: blueviolet;
+    color:rgb(255, 255, 255);
+}
